@@ -53,5 +53,3 @@ This project demonstrates how AI can address real-world healthcare challenges by
 - **Real-Time Optimization**: Reducing latency to improve system responsiveness.  
 
 ---  
-
-## 📂 Repository Structure  
